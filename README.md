@@ -16,4 +16,5 @@ video.published_at  # published at
 video.thumbnail  # video thumbnail url
 video.channel_thumbnails  # channel thumbnails
 video.id  # video id
+video.related_videos  # related video list
 ```
