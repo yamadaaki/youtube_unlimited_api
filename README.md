@@ -1,6 +1,8 @@
 # youtube_unlimited_api
 
-```pip install youtube-unlimited-api```
+```
+pip install youtube-unlimited-api
+```
 
 ```python
 from youtube_unlimited_api import get_video_data
